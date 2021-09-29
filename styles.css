@@ -7,13 +7,14 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #a5a590;
   border-radius: 0;
   border: 0;
+  width: 100%;
 }
 
 #logo-img {
-  background: no-repeat;
+  background: url('../images/pixelburg.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
